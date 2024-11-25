@@ -71,6 +71,27 @@ h1{
 
 }
 
+table{
+    border-collapse: collapse;
+}
+
 .titolettitab{
     text-align: left;
+    color: white;
+    background-color: #1FA9E5;
+    width: 250px;
+    ;
+    
+}
+
+.titolettitab2{
+    text-align: left;
+    color: white;
+    background-color: #1FA9E5;
+    width: 350px;
+    
+}
+
+.noisiamospeciali{
+    background-color: #B2E4F2;
 }
