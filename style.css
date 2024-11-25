@@ -22,7 +22,7 @@ h1{
     line-height: 1;
 }
 
-p{
+#scrittoda{
     margin-top: 2px;
     color: rgb(131, 131, 131);
     font-weight: lighter;
@@ -38,7 +38,26 @@ p{
     font-size: 10px;
 }
 
-.tim{
-    width: 430px;
-    height: ;
+.tim1{
+    width: 435px;
+    display: inline-block;
+}
+
+.tim2{
+    width: 373px;
+    display: inline-block;
+}
+
+.descrizione{
+    font-size: x-small;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.testo{
+    font-size: smaller;
+}
+
+.giallo{
+    background-color: yellow;
 }
