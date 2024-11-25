@@ -65,3 +65,12 @@ h1{
 #lista{
     padding-left: 14px;
 }
+
+#tabella{
+    font-size: smaller;
+
+}
+
+.titolettitab{
+    text-align: left;
+}
