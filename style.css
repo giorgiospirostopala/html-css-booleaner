@@ -8,4 +8,10 @@
 #logo{
     height: 40px;
     margin-top: 40px;
+    margin-left: 100px;
+}
+
+#margini{
+    margin-left: 100px;
+    margin-right: 100px;
 }
