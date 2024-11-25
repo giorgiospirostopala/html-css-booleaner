@@ -61,3 +61,7 @@ h1{
 .giallo{
     background-color: yellow;
 }
+
+#lista{
+    padding-left: 14px;
+}
