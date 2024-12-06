@@ -1,7 +1,7 @@
 /* bisogna resettare i parametri del sito, così: RIPESCALO DALLA LEZIONE */
 
 #celeste{
-    background-image: url(img/pattern.png);
+    background-image: url(./img/pattern.png);
     background-color: #4EA0FF;
     height: 88px;
     background-size: 350px;
@@ -126,7 +126,7 @@ h3{
 }
 
 .fotofinale1{
-    background-image: url(img/monitor.jpg);
+    background-image: url(./img/monitor.jpg);
     width: 200px;
     height: 150px;
     background-size: cover;
@@ -136,7 +136,7 @@ h3{
 }
 
 .fotofinale2{
-    background-image: url(img/graph.jpg);
+    background-image: url(./img/graph.jpg);
     width: 200px;
     height: 150px;
     background-size: cover;
